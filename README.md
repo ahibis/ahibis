@@ -9,7 +9,7 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 - ⚡ Fun fact: my first program was written at the age of 13
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekitpok)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pokesteve31@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/pokesteve31)
 
 [![Ahibis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahibis)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahibis&hide=objective-C,PHP,HTML,CSS,hack,scss,jupyter%20notebook,NSIS,objective-cpp&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
