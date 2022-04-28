@@ -40,7 +40,7 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 ![lodash](https://badgen.net/badge/js/Lodash/red)
 ![pixi.js](https://badgen.net/badge/js/Pixi.js/red)
 ![gpu.js](https://badgen.net/badge/js/GPU.js/red)
-
+![chart.js](https://badgen.net/badge/js/Chart.js/red)
 
 ![Django](https://badgen.net/badge/python/Django/yellow)
 ![Pygame](https://badgen.net/badge/python/Pygame/yellow)
