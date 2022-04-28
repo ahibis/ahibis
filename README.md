@@ -32,6 +32,7 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 ![electron.js](https://badgen.net/badge/js/Electron.js/red)
 ![vuetify](https://badgen.net/badge/js/Vuetify/red)
 ![quasar](https://badgen.net/badge/js/Quasar/red)
+![pinia](https://badgen.net/badge/js/Pinia/red)
 ![soket.io](https://badgen.net/badge/js/Soket.io/red)
 ![vite](https://badgen.net/badge/js/Vite/red)
 ![sequlize](https://badgen.net/badge/js/Sequlize/red)
