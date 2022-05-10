@@ -7,6 +7,7 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 - 💬 Ask me about Vue, Express.js, Socket.io, Electron.js
 - 📫 How to reach me: pokesteve31@gmail.com
 - ⚡ Fun fact: my first program was written at the age of 13
+
 [![codewars](https://www.codewars.com/users/ahibis/badges/small)](https://www.codewars.com/users/ahibis)
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekitpok)
