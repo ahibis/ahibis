@@ -80,6 +80,16 @@ the my version of photoshop
 
 ![version](https://img.shields.io/github/package-json/v/ahibis/BrushGnome)
 
+## HahaRu2 
+The cite for mems
+![hahaRu2](https://user-images.githubusercontent.com/37046811/163729560-035daa8c-0701-4aa3-9535-5b9ad545a486.png)
+
+
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/hahaRu2)
+
+![Django](https://badgen.net/badge/python/Django/yellow)
+![vue](https://badgen.net/badge/js/Vue3/red)
+![scss](https://badgen.net/badge/css/Scss/red)
 
 ## CanIRead
 the app for assessing the vocabulary needed to read a particular book
@@ -107,6 +117,23 @@ landing to attract buyers Solana Bullz nft
 ![vue](https://badgen.net/badge/js/VueJs2/red)
 ![scss](https://badgen.net/badge/js/Lodash/red)
 
+## PFC calculator
+protein fat and carbohydrate calculator
+![PFC](https://github.com/ahibis/PFCcalculator/raw/master/github/cite.png)
+
+[![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/PFCcalculator/releases/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](ahibis.github.io/PFCcalculator/)
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/PFCcalculator)
+
+
+![vue](https://badgen.net/badge/js/Vue3/red)
+![vuetify](https://badgen.net/badge/js/Vuetify/red)
+![vite](https://badgen.net/badge/js/Vite/red)
+![electron](https://badgen.net/badge/js/Electron/red)
+![scss](https://badgen.net/badge/css/Scss/red)
+
+![version](https://img.shields.io/github/package-json/v/ahibis/PFCcalculator)
+
 ## RFP
 the game with a lot of game modes
 ![image](https://user-images.githubusercontent.com/37046811/163726643-f51ad6e1-7859-415f-8a57-f298a020d3b8.png)
@@ -117,11 +144,13 @@ the game with a lot of game modes
 
 ![made](https://img.shields.io/badge/Made%20with-GameMaker%20studio%201.4-1f425f.svg)
 
+## PvZ
+the my parody of plants vs. zombies. the game was developed in 2018.
+![image](https://user-images.githubusercontent.com/37046811/163716579-f50fae23-c1fd-499e-8102-bcf7806488f8.png)
+
+[![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://drive.google.com/file/d/1o64nQzrWR9vN-2MDE1AmqJWIxy7KlmxM/view)
+[![download](https://img.shields.io/badge/download%20for-android-1f425f.svg)](https://drive.google.com/file/d/1_EebiPv2QyXZbIc4RyR5dW3Ies4Ef_32/view)
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/pvz)
 
 
-
-
-
-
-
-
+![made](https://img.shields.io/badge/Made%20with-GameMaker%20studio%201.4-1f425f.svg)
