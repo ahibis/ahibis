@@ -64,7 +64,7 @@ the my version of photoshop
 ![BrushGnome](https://github.com/ahibis/BrushGnome/raw/master/github/windows.jpg)
 
 [![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/BrushGnome/releases/)
-[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](ahibis.github.io/brushgnome/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](https://ahibis.github.io/brushgnome/)
 [![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/BrushGnome)
 
 
@@ -122,7 +122,7 @@ protein fat and carbohydrate calculator
 ![PFC](https://github.com/ahibis/PFCcalculator/raw/master/github/cite.png)
 
 [![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/PFCcalculator/releases/)
-[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](ahibis.github.io/PFCcalculator/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](https://ahibis.github.io/PFCcalculator/)
 [![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/PFCcalculator)
 
 
