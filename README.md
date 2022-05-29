@@ -111,7 +111,7 @@ the app for assessing the vocabulary needed to read a particular book
 landing to attract buyers Solana Bullz nft
 ![site](https://user-images.githubusercontent.com/37046811/163734820-a0e133ea-dbde-4948-9421-740ce623d3e7.png)
 
-[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](solana-bullz.vercel.app/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](https://solana-bullz.vercel.app/)
 [![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/solanaBullz)
 
 ![vue](https://badgen.net/badge/js/VueJs2/red)
