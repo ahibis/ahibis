@@ -64,7 +64,7 @@ the my version of photoshop
 ![BrushGnome](https://github.com/ahibis/BrushGnome/raw/master/github/windows.jpg)
 
 [![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/BrushGnome/releases/)
-[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](https://ahibis.github.io/brushgnome/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](https://ahibis.github.io/BrushGnome/)
 [![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/BrushGnome)
 
 
