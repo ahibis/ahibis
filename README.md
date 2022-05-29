@@ -31,6 +31,9 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
 
 ![electron.js](https://badgen.net/badge/js/Electron.js/red)
 ![vuetify](https://badgen.net/badge/js/Vuetify/red)
@@ -54,6 +57,71 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 ![Entity Framework](https://badgen.net/badge/csharp/EntityFramework/blue)
 ![RedBeanPHP](https://badgen.net/badge/php/RedBeanPHP/purple)
 ![gameMakerStudio](https://badgen.net/badge/gml/GameMakerStudio/orange)
+
+# My some projects
+## BrushGnome 
+the my version of photoshop
+![BrushGnome](https://github.com/ahibis/BrushGnome/raw/master/github/windows.jpg)
+
+[![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/BrushGnome/releases/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](ahibis.github.io/brushgnome/)
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/BrushGnome)
+
+
+![vue](https://badgen.net/badge/js/Vue3/red)
+![vuetify](https://badgen.net/badge/js/Vuetify/red)
+![pinia](https://badgen.net/badge/js/Pinia/red)
+![vite](https://badgen.net/badge/js/Vite/red)
+![gpu](https://badgen.net/badge/js/GPU.js/red)
+![pixi.js](https://badgen.net/badge/js/Pixi.js/red)
+![chart.js](https://badgen.net/badge/js/Chart.js/red)
+![electron](https://badgen.net/badge/js/Electron/red)
+![scss](https://badgen.net/badge/css/Scss/red)
+
+![version](https://img.shields.io/github/package-json/v/ahibis/BrushGnome)
+
+
+## CanIRead
+the app for assessing the vocabulary needed to read a particular book
+![BrushGnome](https://github.com/ahibis/CanIRead/raw/master/github/site.png)
+
+[![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/CanIRead/releases/)
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](https://ahibis.github.io/CanIRead/)
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/canIRead)
+
+
+![react](https://badgen.net/badge/ts/react18/red)
+![materialUI](https://badgen.net/badge/ts/MaterialUI/red)
+![vite](https://badgen.net/badge/ts/Vite/red)
+![scss](https://badgen.net/badge/ts/Lodash/red)
+![electron](https://badgen.net/badge/ts/Electron/red)
+
+![version](https://img.shields.io/github/package-json/v/ahibis/CanIRead)
+## SolanaBullz
+landing to attract buyers Solana Bullz nft
+![site](https://user-images.githubusercontent.com/37046811/163734820-a0e133ea-dbde-4948-9421-740ce623d3e7.png)
+
+[![site](https://img.shields.io/badge/link%20to-site-1f425f.svg)](solana-bullz.vercel.app/)
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/solanaBullz)
+
+![vue](https://badgen.net/badge/js/VueJs2/red)
+![scss](https://badgen.net/badge/js/Lodash/red)
+
+## RFP
+the game with a lot of game modes
+![image](https://user-images.githubusercontent.com/37046811/163726643-f51ad6e1-7859-415f-8a57-f298a020d3b8.png)
+
+[![download](https://img.shields.io/badge/download%20for-windows-1f425f.svg)](https://github.com/ahibis/RFP/releases/)
+[![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/RFP)
+
+
+![made](https://img.shields.io/badge/Made%20with-GameMaker%20studio%201.4-1f425f.svg)
+
+
+
+
+
+
 
 
 
