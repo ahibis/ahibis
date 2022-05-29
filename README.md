@@ -115,7 +115,7 @@ landing to attract buyers Solana Bullz nft
 [![github](https://img.shields.io/badge/link%20to-github-1f425f.svg)](https://github.com/ahibis/solanaBullz)
 
 ![vue](https://badgen.net/badge/js/VueJs2/red)
-![scss](https://badgen.net/badge/js/Lodash/red)
+![scss](https://badgen.net/badge/css/scss/red)
 
 ## PFC calculator
 protein fat and carbohydrate calculator
