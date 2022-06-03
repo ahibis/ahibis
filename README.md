@@ -18,14 +18,14 @@ I'm fullstack developer on javascript. I am interested in developing scalable we
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahibis&hide=objective-C,PHP,HTML,CSS,hack,scss,jupyter%20notebook,NSIS,objective-cpp&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## the languages I most often write in
+## The languages I most often write in
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whit)
-## technologies that I have used in projects
+## Technologies that I have used in projects
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
